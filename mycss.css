@@ -1,7 +1,1 @@
-.nav-bar {
-  background: black;
-}
-
-.nav-bar__logo {
-   background-image: './redhat.png'
-}
+h1 {color: blue;}
