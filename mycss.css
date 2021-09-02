@@ -1,9 +1,9 @@
-.nav-bar {
+nav-bar {
   background: black;
   background-color: black;
   color: black;
 }
 
-.nav-bar__logo {
+nav-bar__logo {
    background-image: 'https://raw.githubusercontent.com/keithchong/gitopswin2/main/redhat.png'
 }
